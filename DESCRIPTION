@@ -1,0 +1,52 @@
+Support Logic AI: Tu Agente de Soporte en Slack (Zero-Code Setup)
+
+Descripción del Producto
+
+Deja de ser el "buscador humano" de tu equipo. Contrata a un Agente de Soporte IA que responde las dudas repetitivas por ti, 24/7, directamente en Slack.
+¿Cuántas veces al día interrumpes tu trabajo profundo para responder algo que ya está documentado? Si eres Team Leader, Manager de Operaciones o responsable de IT, sabes que el 80% de las consultas son ruido: "¿Se ha caído la VPN?", "Los clientes no me escuchan, problemas de audio", "¿Por qué no va el CRM?".
+Responder lo mismo una y otra vez no es liderar. Es ser un bibliotecario glorificado. Y te está costando foco y dinero.
+Support Logic AI no es un simple chatbot. Es un Sistema de Soporte de Nivel 1 completo que vive dentro de tu Slack, lee tu documentación y resuelve dudas al instante.
+
+🤖 CONTRATA A TU NUEVO EMPLEADO DIGITAL
+Al descargar este pack, no adquieres un script suelto. Estás instalando a un miembro más del equipo que trabaja con Lógica Empresarial Real:
+1. LA MEMORIA: Base de Conocimiento Viva (Google Sheets) Olvídate de entrenamientos complejos o PDFs que nadie lee.
+Su misión: El bot lee directamente de un Excel donde tú controlas las preguntas y respuestas.
+El resultado: ¿Quieres actualizar un procedimiento? Cambias la celda en el Excel y el bot "aprende" al instante. Sin re-entrenar nada.
+2. EL CEREBRO: Motor OpenAI (GPT-5.2) No es un loro que repite palabras clave. Entiende el contexto.
+Su misión: Analiza la pregunta del usuario (aunque tenga faltas de ortografía o use jerga) y busca la mejor solución en tu base de datos.
+El resultado: Respuestas empáticas, precisas y formateadas profesionalmente.
+3. EL GUARDIÁN: Protocolo de Escalado Inteligente Lo que hace diferente a este sistema es que conoce sus límites.
+Su misión: Si la respuesta no está en el manual, no se la inventa (evitamos alucinaciones).
+El resultado: Avisa al usuario amablemente y menciona automáticamente a un Supervisor humano (@team_leaders) para que intervenga. El usuario nunca se queda tirado.
+
+💎 ¿POR QUÉ ESTE SISTEMA ES DIFERENTE?
+La mayoría de bots de soporte (Intercom, Zendesk IA) te cobran una mensualidad por agente y son complejos de configurar. Esto es propiedad intelectual tuya:
+✅ Privacidad Controlada: El bot solo sabe lo que tú le pones en el Excel. No "cotillea" datos de tu empresa fuera del manual.
+✅ Integración Nativa Slack: Parece magia. Tus empleados no tienen que instalar nada ni loguearse en otra web. Simplemente preguntan en el canal #incidencias y obtienen respuesta.
+✅ Coste Ridículo: Funciona con tu propia API Key de OpenAI. Una consulta típica cuesta fracciones de céntimo. Es literalmente cientos de veces más barato que una suscripción SaaS.
+
+🛠️ FILOSOFÍA "ZERO-CODE SETUP"
+No necesitas ser programador ni saber Python. Este producto sigue mi filosofía "Plug & Play":
+Importas el Blueprint (cerebro) en Make.
+Subes el Excel Plantilla a tu Drive.
+Pegas tus claves (siguiendo el manual). Listo. En menos de 20 minutos tienes a tu agente respondiendo tickets.
+
+📦 ¿QUÉ INCLUYE LA DESCARGA?
+Recibirás un ZIP estructurado listo para desplegar:
+📄 Guía de Instalación Paso a Paso (PDF): Manual a prueba de fallos, con capturas de pantalla, para conectar Slack y OpenAI sin errores técnicos.
+🧠 Support_Logic_AI.blueprint: El cerebro del robot listo para importar en Make (con toda la lógica de decisión y formato ya creada).
+📊 Knowledge Base Template (.xlsx): La estructura exacta para que empieces a volcar tus preguntas frecuentes.
+🔒 Lifetime Access: Sin suscripciones mensuales. El bot es tuyo para siempre.
+
+⚙️ REQUISITOS TÉCNICOS
+Herramientas líderes y accesibles:
+Cuenta de Make (El plan gratuito es suficiente para empezar).
+Cuenta de OpenAI (API Key).
+Slack Workspace (Con permisos para crear Apps).
+Google Drive/Sheets.
+
+💡 ¿PARA QUIÉN ES ESTO?
+Team Leaders cansados de ser el "Google humano" de su equipo.
+Agencias & Consultoras que quieren ofrecer soporte 24/7 a clientes sin contratar personal nocturno.
+Departamentos de RRHH/Ops para automatizar el Onboarding de nuevos empleados.
+Deja de repetir lo mismo. Empieza a escalar. 🚀 Descarga Support Logic AI y recupera tu tiempo hoy mismo.
